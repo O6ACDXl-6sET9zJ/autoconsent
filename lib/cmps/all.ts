@@ -10,6 +10,7 @@ import Uniconsent from './uniconsent';
 import Conversant from './conversant';
 import Tiktok from './tiktok';
 import Airbnb from './airbnb';
+import EasyList from './easylist';
 
 
 export const dynamicCMPs = [
@@ -25,4 +26,5 @@ export const dynamicCMPs = [
   Conversant,
   Tiktok,
   Airbnb,
+  EasyList,
 ];
